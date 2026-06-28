@@ -2,6 +2,11 @@
 
 Proyek ini merupakan Ujian Akhir Semester (UAS) untuk mata kuliah Inteligensia Bisnis pada Program Studi D3 Sistem Informasi, Fakultas Ilmu Komputer, Universitas Pembangunan Nasional "Veteran" Jakarta. Tujuan utama dari proyek ini adalah membangun *dashboard* interaktif untuk menganalisis performa penjualan, tren profitabilitas, dan memberikan rekomendasi bisnis berbasis data.
 
+##Access Link
+**https://rylwashere.github.io/Superstore_Profit_and_Trend_Analysis/**
+
+<img width="1246" height="711" alt="image" src="https://github.com/user-attachments/assets/a1513120-bf9b-487c-899e-bdb2f94b7f13" />
+
 ---
 
 ## 📊 Informasi Dataset
